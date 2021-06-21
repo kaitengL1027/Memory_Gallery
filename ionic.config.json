@@ -1,0 +1,7 @@
+{
+  "name": "ionic-tutorial-nativefeatures",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

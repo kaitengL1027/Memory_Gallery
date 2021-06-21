@@ -1,0 +1,2890 @@
+{
+  "groups": [
+    {
+      "frequency": 270,
+      "sources": [
+        { "provider": { "name": "Caledonian MacBrayne" } },
+        {
+          "disclaimer": "\u00a9 OpenStreetMap contributors\n\nMap data available under the Open Database License. For more information, see http://www.openstreetmap.org/copyright.",
+          "provider": {
+            "name": "OpenStreetMap",
+            "website": "https://www.openstreetmap.org"
+          }
+        },
+        { "provider": { "name": "Stagecoach West Scotland" } }
+      ],
+      "trips": [
+        {
+          "arrive": 1615791082,
+          "availability": "AVAILABLE",
+          "caloriesCost": 81,
+          "carbonCost": 7.9,
+          "depart": 1615748856,
+          "hassleCost": 5,
+          "id": "1d317e54-a12d-4847-9b82-1be4115d8458",
+          "logURL": "https://baryogenesis.buzzhives.com/satapp/trip/log/1d317e54-a12d-4847-9b82-1be4115d8458",
+          "mainSegmentHashCode": 1177290467,
+          "plannedURL": "https://baryogenesis.buzzhives.com/satapp/trip/planned/1d317e54-a12d-4847-9b82-1be4115d8458",
+          "queryIsLeaveAfter": true,
+          "queryMinimumTransferSeconds": 0,
+          "queryTime": 1615731326,
+          "saveURL": "https://baryogenesis.buzzhives.com/satapp/trip/save/1d317e54-a12d-4847-9b82-1be4115d8458",
+          "segments": [
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615749600,
+              "id": "uagaUWs0",
+              "segmentTemplateHashCode": -1431679271,
+              "startTime": 1615748856
+            },
+            {
+              "availability": "AVAILABLE",
+              "bicycleAccessible": true,
+              "endTime": 1615752900,
+              "id": "0fQcCVVl",
+              "routeId": "FSACM05",
+              "segmentTemplateHashCode": 1177290467,
+              "serviceDirection": "Ardrossan Ferry Terminal",
+              "serviceName": "Ardrossan - Brodick",
+              "serviceNumber": "CM5",
+              "serviceTripID": "FSACM05_66159",
+              "startTime": 1615749600,
+              "stops": 1
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615753741,
+              "id": "ZrgupYEE",
+              "segmentTemplateHashCode": 196108313,
+              "startTime": 1615752900
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615786200,
+              "id": "Oa3JMJyQ",
+              "segmentTemplateHashCode": 1742860151,
+              "startTime": 1615753741
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615790700,
+              "id": "pQagXapg",
+              "routeId": "FSAX036",
+              "segmentTemplateHashCode": 825430076,
+              "serviceDirection": "Buchanan Bus Station",
+              "serviceName": "Glasgow - Ardrossan via Garnock Valley",
+              "serviceNumber": "X36",
+              "serviceTripID": "FSAX036_76546",
+              "startTime": 1615786200,
+              "stops": 46
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615791082,
+              "id": "gIoHwf30",
+              "segmentTemplateHashCode": -1237129389,
+              "startTime": 1615790700
+            }
+          ],
+          "temporaryURL": "https://baryogenesis.buzzhives.com/satapp/trip/1d317e54-a12d-4847-9b82-1be4115d8458",
+          "weightedScore": 278.5
+        },
+        {
+          "arrive": 1615816342,
+          "availability": "AVAILABLE",
+          "caloriesCost": 81,
+          "carbonCost": 7.9,
+          "depart": 1615805556,
+          "hassleCost": 5,
+          "id": "312d7c44-4c8e-4881-9900-ef9ccd69bac8",
+          "logURL": "https://baryogenesis.buzzhives.com/satapp/trip/log/312d7c44-4c8e-4881-9900-ef9ccd69bac8",
+          "mainSegmentHashCode": 1177290467,
+          "plannedURL": "https://baryogenesis.buzzhives.com/satapp/trip/planned/312d7c44-4c8e-4881-9900-ef9ccd69bac8",
+          "queryIsLeaveAfter": true,
+          "queryMinimumTransferSeconds": 0,
+          "queryTime": 1615731326,
+          "saveURL": "https://baryogenesis.buzzhives.com/satapp/trip/save/312d7c44-4c8e-4881-9900-ef9ccd69bac8",
+          "segments": [
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615806300,
+              "id": "3wxEzbWs",
+              "segmentTemplateHashCode": -1431679271,
+              "startTime": 1615805556
+            },
+            {
+              "availability": "AVAILABLE",
+              "bicycleAccessible": true,
+              "endTime": 1615809600,
+              "id": "5ZOsibFq",
+              "routeId": "FSACM05",
+              "segmentTemplateHashCode": 1177290467,
+              "serviceDirection": "Ardrossan Ferry Terminal",
+              "serviceName": "Ardrossan - Brodick",
+              "serviceNumber": "CM5",
+              "serviceTripID": "FSACM05_66128",
+              "startTime": 1615806300,
+              "stops": 1
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615810441,
+              "id": "S86wQfJs",
+              "segmentTemplateHashCode": 196108313,
+              "startTime": 1615809600
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615811700,
+              "id": "V5BH5Fur",
+              "segmentTemplateHashCode": 1742860151,
+              "startTime": 1615810441
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615815960,
+              "id": "5H13wSIC",
+              "routeId": "FSAX036",
+              "segmentTemplateHashCode": -807445648,
+              "serviceDirection": "Buchanan Bus Station",
+              "serviceName": "Glasgow - Ardrossan via Garnock Valley",
+              "serviceNumber": "X36",
+              "serviceTripID": "FSAX036_76579",
+              "startTime": 1615811700,
+              "stops": 46
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615816342,
+              "id": "NW7a2TO2",
+              "segmentTemplateHashCode": -1237129389,
+              "startTime": 1615815960
+            }
+          ],
+          "temporaryURL": "https://baryogenesis.buzzhives.com/satapp/trip/312d7c44-4c8e-4881-9900-ef9ccd69bac8",
+          "weightedScore": 223.9
+        },
+        {
+          "arrive": 1615719142,
+          "availability": "AVAILABLE",
+          "caloriesCost": 81,
+          "carbonCost": 7.9,
+          "depart": 1615709256,
+          "hassleCost": 5,
+          "id": "3dbbf4df-8371-4da9-95cd-dc1f4eac5482",
+          "logURL": "https://baryogenesis.buzzhives.com/satapp/trip/log/3dbbf4df-8371-4da9-95cd-dc1f4eac5482",
+          "mainSegmentHashCode": 1177290467,
+          "plannedURL": "https://baryogenesis.buzzhives.com/satapp/trip/planned/3dbbf4df-8371-4da9-95cd-dc1f4eac5482",
+          "queryIsLeaveAfter": true,
+          "queryMinimumTransferSeconds": 0,
+          "queryTime": 1615731326,
+          "saveURL": "https://baryogenesis.buzzhives.com/satapp/trip/save/3dbbf4df-8371-4da9-95cd-dc1f4eac5482",
+          "segments": [
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615710000,
+              "id": "ZERODGs1",
+              "segmentTemplateHashCode": -1431679271,
+              "startTime": 1615709256
+            },
+            {
+              "availability": "AVAILABLE",
+              "bicycleAccessible": true,
+              "endTime": 1615713300,
+              "id": "ifGdn52N",
+              "routeId": "FSACM05",
+              "segmentTemplateHashCode": 1177290467,
+              "serviceDirection": "Ardrossan Ferry Terminal",
+              "serviceName": "Ardrossan - Brodick",
+              "serviceNumber": "CM5",
+              "serviceTripID": "FSACM05_66155",
+              "startTime": 1615710000,
+              "stops": 1
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615714141,
+              "id": "9gM0CFgY",
+              "segmentTemplateHashCode": 196108313,
+              "startTime": 1615713300
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615714500,
+              "id": "tEVMvkbE",
+              "segmentTemplateHashCode": 1742860151,
+              "startTime": 1615714141
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615718760,
+              "id": "vMqMBead",
+              "routeId": "FSAX036",
+              "segmentTemplateHashCode": -807445648,
+              "serviceDirection": "Buchanan Bus Station",
+              "serviceName": "Glasgow - Ardrossan via Garnock Valley",
+              "serviceNumber": "X36",
+              "serviceTripID": "FSAX036_76563",
+              "startTime": 1615714500,
+              "stops": 46
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615719142,
+              "id": "AcbGHoeI",
+              "segmentTemplateHashCode": -1237129389,
+              "startTime": 1615718760
+            }
+          ],
+          "temporaryURL": "https://baryogenesis.buzzhives.com/satapp/trip/3dbbf4df-8371-4da9-95cd-dc1f4eac5482",
+          "weightedScore": 552.6
+        },
+        {
+          "arrive": 1615749442,
+          "availability": "AVAILABLE",
+          "caloriesCost": 81,
+          "carbonCost": 7.9,
+          "depart": 1615739256,
+          "hassleCost": 5,
+          "id": "81fe0354-b5c4-4bed-b842-2c85cdde28c9",
+          "logURL": "https://baryogenesis.buzzhives.com/satapp/trip/log/81fe0354-b5c4-4bed-b842-2c85cdde28c9",
+          "mainSegmentHashCode": 1177290467,
+          "plannedURL": "https://baryogenesis.buzzhives.com/satapp/trip/planned/81fe0354-b5c4-4bed-b842-2c85cdde28c9",
+          "queryIsLeaveAfter": true,
+          "queryMinimumTransferSeconds": 0,
+          "queryTime": 1615731326,
+          "saveURL": "https://baryogenesis.buzzhives.com/satapp/trip/save/81fe0354-b5c4-4bed-b842-2c85cdde28c9",
+          "segments": [
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615740000,
+              "id": "rEDgWUwB",
+              "segmentTemplateHashCode": -1431679271,
+              "startTime": 1615739256
+            },
+            {
+              "availability": "AVAILABLE",
+              "bicycleAccessible": true,
+              "endTime": 1615743300,
+              "id": "OQNK45Vf",
+              "routeId": "FSACM05",
+              "segmentTemplateHashCode": 1177290467,
+              "serviceDirection": "Ardrossan Ferry Terminal",
+              "serviceName": "Ardrossan - Brodick",
+              "serviceNumber": "CM5",
+              "serviceTripID": "FSACM05_66158",
+              "startTime": 1615740000,
+              "stops": 1
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615744141,
+              "id": "P6kAAO9o",
+              "segmentTemplateHashCode": 196108313,
+              "startTime": 1615743300
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615744800,
+              "id": "C0uHpHRS",
+              "segmentTemplateHashCode": 1742860151,
+              "startTime": 1615744141
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615749060,
+              "id": "B9n2fQpv",
+              "routeId": "FSAX036",
+              "segmentTemplateHashCode": -760129700,
+              "serviceDirection": "Buchanan Bus Station",
+              "serviceName": "Glasgow - Ardrossan via Garnock Valley",
+              "serviceNumber": "X36",
+              "serviceTripID": "FSAX036_76560",
+              "startTime": 1615744800,
+              "stops": 46
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615749442,
+              "id": "InMFal4T",
+              "segmentTemplateHashCode": -1237129389,
+              "startTime": 1615749060
+            }
+          ],
+          "temporaryURL": "https://baryogenesis.buzzhives.com/satapp/trip/81fe0354-b5c4-4bed-b842-2c85cdde28c9",
+          "weightedScore": 80.6
+        },
+        {
+          "arrive": 1615729942,
+          "availability": "AVAILABLE",
+          "caloriesCost": 81,
+          "carbonCost": 7.9,
+          "depart": 1615719156,
+          "hassleCost": 5,
+          "id": "09e8bbcc-89a6-4922-b4af-0d107793d7e0",
+          "logURL": "https://baryogenesis.buzzhives.com/satapp/trip/log/09e8bbcc-89a6-4922-b4af-0d107793d7e0",
+          "mainSegmentHashCode": 1177290467,
+          "plannedURL": "https://baryogenesis.buzzhives.com/satapp/trip/planned/09e8bbcc-89a6-4922-b4af-0d107793d7e0",
+          "queryIsLeaveAfter": true,
+          "queryMinimumTransferSeconds": 0,
+          "queryTime": 1615731326,
+          "saveURL": "https://baryogenesis.buzzhives.com/satapp/trip/save/09e8bbcc-89a6-4922-b4af-0d107793d7e0",
+          "segments": [
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615719900,
+              "id": "AXHpawDb",
+              "segmentTemplateHashCode": -1431679271,
+              "startTime": 1615719156
+            },
+            {
+              "availability": "AVAILABLE",
+              "bicycleAccessible": true,
+              "endTime": 1615723200,
+              "id": "RPYkAmjf",
+              "routeId": "FSACM05",
+              "segmentTemplateHashCode": 1177290467,
+              "serviceDirection": "Ardrossan Ferry Terminal",
+              "serviceName": "Ardrossan - Brodick",
+              "serviceNumber": "CM5",
+              "serviceTripID": "FSACM05_66156",
+              "startTime": 1615719900,
+              "stops": 1
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615724041,
+              "id": "vFQGfwPs",
+              "segmentTemplateHashCode": 196108313,
+              "startTime": 1615723200
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615725300,
+              "id": "eai8Gnri",
+              "segmentTemplateHashCode": 1742860151,
+              "startTime": 1615724041
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615729560,
+              "id": "nb0FUYKP",
+              "routeId": "FSAX036",
+              "segmentTemplateHashCode": -807445648,
+              "serviceDirection": "Buchanan Bus Station",
+              "serviceName": "Glasgow - Ardrossan via Garnock Valley",
+              "serviceNumber": "X36",
+              "serviceTripID": "FSAX036_76566",
+              "startTime": 1615725300,
+              "stops": 46
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615729942,
+              "id": "IIMEaHsm",
+              "segmentTemplateHashCode": -1237129389,
+              "startTime": 1615729560
+            }
+          ],
+          "temporaryURL": "https://baryogenesis.buzzhives.com/satapp/trip/09e8bbcc-89a6-4922-b4af-0d107793d7e0",
+          "weightedScore": 337.6
+        },
+        {
+          "arrive": 1615738642,
+          "availability": "AVAILABLE",
+          "caloriesCost": 81,
+          "carbonCost": 7.9,
+          "depart": 1615729056,
+          "hassleCost": 5,
+          "id": "146ed7bc-0ea4-4303-9ab1-4c619857453a",
+          "logURL": "https://baryogenesis.buzzhives.com/satapp/trip/log/146ed7bc-0ea4-4303-9ab1-4c619857453a",
+          "mainSegmentHashCode": 1177290467,
+          "plannedURL": "https://baryogenesis.buzzhives.com/satapp/trip/planned/146ed7bc-0ea4-4303-9ab1-4c619857453a",
+          "queryIsLeaveAfter": true,
+          "queryMinimumTransferSeconds": 0,
+          "queryTime": 1615731326,
+          "saveURL": "https://baryogenesis.buzzhives.com/satapp/trip/save/146ed7bc-0ea4-4303-9ab1-4c619857453a",
+          "segments": [
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615729800,
+              "id": "5vdmMgHm",
+              "segmentTemplateHashCode": -1431679271,
+              "startTime": 1615729056
+            },
+            {
+              "availability": "AVAILABLE",
+              "bicycleAccessible": true,
+              "endTime": 1615733100,
+              "id": "eUa3Q6sS",
+              "routeId": "FSACM05",
+              "segmentTemplateHashCode": 1177290467,
+              "serviceDirection": "Ardrossan Ferry Terminal",
+              "serviceName": "Ardrossan - Brodick",
+              "serviceNumber": "CM5",
+              "serviceTripID": "FSACM05_66157",
+              "startTime": 1615729800,
+              "stops": 1
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615733941,
+              "id": "zebiLZF7",
+              "segmentTemplateHashCode": 196108313,
+              "startTime": 1615733100
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615734000,
+              "id": "FCK0Qvc9",
+              "segmentTemplateHashCode": 1742860151,
+              "startTime": 1615733941
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615738260,
+              "id": "Mw81J5eI",
+              "routeId": "FSAX036",
+              "segmentTemplateHashCode": -760129700,
+              "serviceDirection": "Buchanan Bus Station",
+              "serviceName": "Glasgow - Ardrossan via Garnock Valley",
+              "serviceNumber": "X36",
+              "serviceTripID": "FSAX036_76557",
+              "startTime": 1615734000,
+              "stops": 46
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615738642,
+              "id": "7kYsisDa",
+              "segmentTemplateHashCode": -1237129389,
+              "startTime": 1615738260
+            }
+          ],
+          "temporaryURL": "https://baryogenesis.buzzhives.com/satapp/trip/146ed7bc-0ea4-4303-9ab1-4c619857453a",
+          "weightedScore": 110.9
+        },
+        {
+          "arrive": 1615805542,
+          "availability": "AVAILABLE",
+          "caloriesCost": 81,
+          "carbonCost": 7.9,
+          "depart": 1615795656,
+          "hassleCost": 5,
+          "id": "f3441ba6-b130-44bc-a62c-b02923cb4298",
+          "logURL": "https://baryogenesis.buzzhives.com/satapp/trip/log/f3441ba6-b130-44bc-a62c-b02923cb4298",
+          "mainSegmentHashCode": 1177290467,
+          "plannedURL": "https://baryogenesis.buzzhives.com/satapp/trip/planned/f3441ba6-b130-44bc-a62c-b02923cb4298",
+          "queryIsLeaveAfter": true,
+          "queryMinimumTransferSeconds": 0,
+          "queryTime": 1615731326,
+          "saveURL": "https://baryogenesis.buzzhives.com/satapp/trip/save/f3441ba6-b130-44bc-a62c-b02923cb4298",
+          "segments": [
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615796400,
+              "id": "aSC81dUe",
+              "segmentTemplateHashCode": -1431679271,
+              "startTime": 1615795656
+            },
+            {
+              "availability": "AVAILABLE",
+              "bicycleAccessible": true,
+              "endTime": 1615799700,
+              "id": "IrmTYERL",
+              "routeId": "FSACM05",
+              "segmentTemplateHashCode": 1177290467,
+              "serviceDirection": "Ardrossan Ferry Terminal",
+              "serviceName": "Ardrossan - Brodick",
+              "serviceNumber": "CM5",
+              "serviceTripID": "FSACM05_66127",
+              "startTime": 1615796400,
+              "stops": 1
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615800541,
+              "id": "wCh6rE6L",
+              "segmentTemplateHashCode": 196108313,
+              "startTime": 1615799700
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615800900,
+              "id": "ac0lMwmw",
+              "segmentTemplateHashCode": 1742860151,
+              "startTime": 1615800541
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615805160,
+              "id": "dvg5TC4A",
+              "routeId": "FSAX036",
+              "segmentTemplateHashCode": -807445648,
+              "serviceDirection": "Buchanan Bus Station",
+              "serviceName": "Glasgow - Ardrossan via Garnock Valley",
+              "serviceNumber": "X36",
+              "serviceTripID": "FSAX036_76576",
+              "startTime": 1615800900,
+              "stops": 46
+            },
+            {
+              "availability": "AVAILABLE",
+              "endTime": 1615805542,
+              "id": "K6RkBYWd",
+              "segmentTemplateHashCode": -1237129389,
+              "startTime": 1615805160
+            }
+          ],
+          "temporaryURL": "https://baryogenesis.buzzhives.com/satapp/trip/f3441ba6-b130-44bc-a62c-b02923cb4298",
+          "weightedScore": 198
+        }
+      ]
+    }
+  ],
+  "query": {
+    "from": {
+      "address": "Near Alma Park & Manse Crescent",
+      "class": "Location",
+      "lat": 55.57539,
+      "lng": -5.14717,
+      "region": "UK_SouthScotland",
+      "timezone": "Europe/London"
+    },
+    "to": {
+      "address": "Near Pitt Street & Waterloo Street",
+      "class": "Location",
+      "lat": 55.86077,
+      "lng": -4.26823,
+      "region": "UK_SouthScotland",
+      "timezone": "Europe/London"
+    }
+  },
+  "region": "UK_SouthScotland",
+  "regions": ["UK_SouthScotland"],
+  "segmentTemplates": [
+    {
+      "action": "<TIME>: Walk",
+      "from": {
+        "address": "Near Alma Park & Manse Crescent",
+        "class": "Location",
+        "lat": 55.57537,
+        "lng": -5.14711,
+        "region": "UK_SouthScotland",
+        "timezone": "Europe/London"
+      },
+      "hashCode": -1431679271,
+      "localCost": {
+        "accuracy": "internal_estimate",
+        "cost": 0,
+        "currency": "GBP"
+      },
+      "metres": 820,
+      "mini": {
+        "description": "Brodick Isle of Arran Ferry Terminal",
+        "instruction": "Walk",
+        "mainValue": "1/2 mile"
+      },
+      "modeIdentifier": "wa_wal",
+      "modeInfo": {
+        "alt": "Walk",
+        "color": { "blue": 99, "green": 199, "red": 30 },
+        "identifier": "wa_wal",
+        "localIcon": "walk"
+      },
+      "notes": "<DURATION> â 1/2 mile",
+      "streets": [
+        {
+          "encodedWaypoints": "_qerIlhl^?EGKCIC[@i@",
+          "instruction": "HEAD_TOWARDS",
+          "metres": 34,
+          "name": "Manse Crescent"
+        },
+        {
+          "encodedWaypoints": "mqerIjel^sAE",
+          "instruction": "CONTINUE_STRAIGHT",
+          "metres": 46,
+          "name": "Alma Park"
+        },
+        {
+          "encodedWaypoints": "aterIdel^VeGJ_D?o@@?CkBAoAAuA@eA????@mAAKEEuDOe@b@LuAtAcGNoBq@NOCMOIUO{AWsBm@bAAS",
+          "instruction": "TURN_RIGHT",
+          "metres": 739,
+          "name": "Alma Road"
+        }
+      ],
+      "to": {
+        "address": "Brodick Isle of Arran Ferry Terminal",
+        "class": "StopLocation",
+        "code": "9300BRB",
+        "id": "pt_pub|UK_SouthScotland|9300BRB",
+        "lat": 55.57714,
+        "lng": -5.13891,
+        "modeInfo": {
+          "alt": "ferry",
+          "identifier": "pt_pub_ferry",
+          "localIcon": "ferry"
+        },
+        "name": "Brodick Isle of Arran Ferry Terminal",
+        "popularity": 123,
+        "publicTransportMode": "pt_pub_ferry",
+        "region": "UK_SouthScotland",
+        "services": "CM5, CM5A",
+        "stopCode": "9300BRB",
+        "stopType": "ferry",
+        "timezone": "Europe/London"
+      },
+      "travelDirection": 85,
+      "turn-by-turn": "WALKING",
+      "type": "unscheduled",
+      "visibility": "in summary"
+    },
+    {
+      "action": "<TIME>: Take <NUMBER>",
+      "endStopCode": "9300ARD",
+      "from": {
+        "address": "Brodick Isle of Arran Ferry Terminal",
+        "class": "StopLocation",
+        "code": "9300BRB",
+        "id": "pt_pub|UK_SouthScotland|9300BRB",
+        "lat": 55.57714,
+        "lng": -5.13891,
+        "modeInfo": {
+          "alt": "ferry",
+          "identifier": "pt_pub_ferry",
+          "localIcon": "ferry"
+        },
+        "name": "Brodick Isle of Arran Ferry Terminal",
+        "popularity": 123,
+        "publicTransportMode": "pt_pub_ferry",
+        "region": "UK_SouthScotland",
+        "services": "CM5, CM5A",
+        "stopCode": "9300BRB",
+        "stopType": "ferry",
+        "timezone": "Europe/London"
+      },
+      "hashCode": 1177290467,
+      "mini": {
+        "description": "<DIRECTION>",
+        "instruction": "Take <NUMBER> â <PLATFORM>"
+      },
+      "modeIdentifier": "pt_pub",
+      "modeInfo": {
+        "alt": "Ferry",
+        "color": { "blue": 104, "green": 197, "red": 45 },
+        "identifier": "pt_pub_ferry",
+        "localIcon": "ferry"
+      },
+      "notes": "<LINE_NAME>\n<DIRECTION>\n<PLATFORM>\n<DURATION> â <STOPS>",
+      "operator": "Caledonian MacBrayne",
+      "operatorID": "CALM",
+      "serviceOperator": "Caledonian MacBrayne",
+      "shapes": [
+        {
+          "encodedWaypoints": "a|erIfuj^eiKgn|@",
+          "stops": [
+            {
+              "bearing": 79,
+              "code": "9300BRB",
+              "dropOffOnly": false,
+              "lat": 55.57714,
+              "lng": -5.13891,
+              "name": "Brodick Isle of Arran Ferry Terminal",
+              "pickUpOnly": true,
+              "relativeDeparture": 0
+            },
+            {
+              "code": "9300ARD",
+              "dropOffOnly": false,
+              "lat": 55.64021,
+              "lng": -4.82415,
+              "name": "Ardrossan Ferry Terminal",
+              "pickUpOnly": false,
+              "relativeArrival": 3300
+            }
+          ],
+          "travelled": true
+        }
+      ],
+      "sources": [{ "provider": "Caledonian MacBrayne" }],
+      "stopCode": "9300BRB",
+      "to": {
+        "address": "Ardrossan Ferry Terminal",
+        "class": "StopLocation",
+        "code": "9300ARD",
+        "id": "pt_pub|UK_SouthScotland|9300ARD",
+        "lat": 55.64021,
+        "lng": -4.82415,
+        "modeInfo": {
+          "alt": "ferry",
+          "identifier": "pt_pub_ferry",
+          "localIcon": "ferry"
+        },
+        "name": "Ardrossan Ferry Terminal",
+        "popularity": 123,
+        "publicTransportMode": "pt_pub_ferry",
+        "region": "UK_SouthScotland",
+        "services": "CM5, CM5A",
+        "stopCode": "9300ARD",
+        "stopType": "ferry",
+        "timezone": "Europe/London"
+      },
+      "travelDirection": 79,
+      "type": "scheduled",
+      "visibility": "in summary"
+    },
+    {
+      "action": "<TIME>: Walk",
+      "from": {
+        "address": "Ardrossan Ferry Terminal",
+        "class": "StopLocation",
+        "code": "9300ARD",
+        "id": "pt_pub|UK_SouthScotland|9300ARD",
+        "lat": 55.64021,
+        "lng": -4.82415,
+        "modeInfo": {
+          "alt": "ferry",
+          "identifier": "pt_pub_ferry",
+          "localIcon": "ferry"
+        },
+        "name": "Ardrossan Ferry Terminal",
+        "popularity": 123,
+        "publicTransportMode": "pt_pub_ferry",
+        "region": "UK_SouthScotland",
+        "services": "CM5, CM5A",
+        "stopCode": "9300ARD",
+        "stopType": "ferry",
+        "timezone": "Europe/London"
+      },
+      "hashCode": 196108313,
+      "localCost": {
+        "accuracy": "internal_estimate",
+        "cost": 0,
+        "currency": "GBP"
+      },
+      "metres": 914,
+      "mini": {
+        "description": "Hill Street",
+        "instruction": "Walk",
+        "mainValue": "1/2 mile"
+      },
+      "modeIdentifier": "wa_wal",
+      "modeInfo": {
+        "alt": "Walk",
+        "color": { "blue": 99, "green": 199, "red": 30 },
+        "identifier": "wa_wal",
+        "localIcon": "walk"
+      },
+      "notes": "<DURATION> â 1/2 mile",
+      "streets": [
+        {
+          "encodedWaypoints": "gfrrI~em\\Bc@pAeAQgA",
+          "instruction": "HEAD_TOWARDS",
+          "metres": 85,
+          "name": "Walk"
+        },
+        {
+          "encodedWaypoints": "cdrrIl`m\\m@RYJIAEECMSuBM?FIPo@Tk@V}@F[BOAKAY?[F_@J]?@B?d@{A`@kAQo@HOHIJUDYZ}AJi@O}C",
+          "instruction": "TURN_LEFT",
+          "metres": 442,
+          "name": "Harbour Road"
+        },
+        {
+          "encodedWaypoints": "earrIj`l\\?qA?U@MDOA?@?QU?o@Ao@HeAH}@MBMIMKUYIUOOOKg@cD",
+          "instruction": "TURN_SLIGHTLY_LEFT",
+          "metres": 252,
+          "name": "Dock Road"
+        },
+        {
+          "encodedWaypoints": "oerrIhlk\\\\eBTkAj@yC?AUZ",
+          "instruction": "TURN_SLIGHTLY_RIGHT",
+          "metres": 132,
+          "name": "Princes Street"
+        }
+      ],
+      "to": {
+        "address": "Hill Street",
+        "class": "StopLocation",
+        "code": "62923452",
+        "id": "pt_pub|UK_SouthScotland|62923452",
+        "lat": 55.63972,
+        "lng": -4.81339,
+        "modeInfo": {
+          "alt": "bus",
+          "identifier": "pt_pub_bus",
+          "localIcon": "bus"
+        },
+        "name": "Hill Street",
+        "popularity": 486,
+        "publicTransportMode": "pt_pub_bus",
+        "region": "UK_SouthScotland",
+        "services": "11, 585, X36, 12, 585A",
+        "stopCode": "62923452",
+        "stopType": "bus",
+        "timezone": "Europe/London"
+      },
+      "travelDirection": 96,
+      "turn-by-turn": "WALKING",
+      "type": "unscheduled",
+      "visibility": "in summary"
+    },
+    {
+      "action": "<TIME>: Wait ",
+      "hashCode": 1742860151,
+      "location": {
+        "address": "Hill Street",
+        "class": "StopLocation",
+        "code": "62923452",
+        "id": "pt_pub|UK_SouthScotland|62923452",
+        "lat": 55.63972,
+        "lng": -4.81339,
+        "modeInfo": {
+          "alt": "bus",
+          "identifier": "pt_pub_bus",
+          "localIcon": "bus"
+        },
+        "name": "Hill Street",
+        "popularity": 486,
+        "publicTransportMode": "pt_pub_bus",
+        "region": "UK_SouthScotland",
+        "services": "11, 585, X36, 12, 585A",
+        "stopCode": "62923452",
+        "stopType": "bus",
+        "timezone": "Europe/London"
+      },
+      "mini": { "instruction": "Wait", "mainValue": "<DURATION>" },
+      "modeInfo": {
+        "alt": "Transfer",
+        "identifier": "stationary_transfer",
+        "localIcon": "transfer"
+      },
+      "notes": "<DURATION>",
+      "type": "stationary",
+      "visibility": "in details"
+    },
+    {
+      "action": "<TIME>: Take <NUMBER>",
+      "endStopCode": "45235639",
+      "from": {
+        "address": "Hill Street",
+        "class": "StopLocation",
+        "code": "62923452",
+        "id": "pt_pub|UK_SouthScotland|62923452",
+        "lat": 55.63972,
+        "lng": -4.81339,
+        "modeInfo": {
+          "alt": "bus",
+          "identifier": "pt_pub_bus",
+          "localIcon": "bus"
+        },
+        "name": "Hill Street",
+        "popularity": 486,
+        "publicTransportMode": "pt_pub_bus",
+        "region": "UK_SouthScotland",
+        "services": "11, 585, X36, 12, 585A",
+        "stopCode": "62923452",
+        "stopType": "bus",
+        "timezone": "Europe/London"
+      },
+      "hashCode": 825430076,
+      "mini": {
+        "description": "<DIRECTION>",
+        "instruction": "Take <NUMBER> â <PLATFORM>"
+      },
+      "modeIdentifier": "pt_pub",
+      "modeInfo": {
+        "alt": "Bus",
+        "color": { "blue": 104, "green": 197, "red": 45 },
+        "identifier": "pt_pub_bus",
+        "localIcon": "bus"
+      },
+      "notes": "<LINE_NAME>\n<DIRECTION>\n<PLATFORM>\n<DURATION> â <STOPS>",
+      "operator": "Stagecoach West Scotland",
+      "operatorID": "STWS",
+      "serviceOperator": "Stagecoach West Scotland",
+      "shapes": [
+        {
+          "encodedWaypoints": "kutrIppj\\`VaB??nNyF??fQvO??rLpK??vJG",
+          "stops": [
+            {
+              "bearing": 172,
+              "code": "62923836",
+              "dropOffOnly": false,
+              "lat": 55.65286,
+              "lng": -4.81049,
+              "name": "Linn Road",
+              "pickUpOnly": true,
+              "relativeDeparture": -239
+            },
+            {
+              "bearing": 153,
+              "code": "62924798",
+              "dropOffOnly": false,
+              "lat": 55.64917,
+              "lng": -4.81,
+              "name": "Eglinton Square",
+              "pickUpOnly": false,
+              "relativeArrival": -180,
+              "relativeDeparture": -180
+            },
+            {
+              "bearing": 222,
+              "code": "62923685",
+              "dropOffOnly": false,
+              "lat": 55.64669,
+              "lng": -4.80874,
+              "name": "Park Road",
+              "pickUpOnly": false,
+              "relativeArrival": -120,
+              "relativeDeparture": -120
+            },
+            {
+              "bearing": 222,
+              "code": "62923639",
+              "dropOffOnly": false,
+              "lat": 55.64377,
+              "lng": -4.81142,
+              "name": "Hill Place",
+              "pickUpOnly": false,
+              "relativeArrival": -119,
+              "relativeDeparture": -119
+            },
+            {
+              "code": "62925387",
+              "dropOffOnly": false,
+              "lat": 55.64159,
+              "lng": -4.81343,
+              "name": "Congregational Church",
+              "pickUpOnly": false,
+              "relativeArrival": -60,
+              "relativeDeparture": -60
+            }
+          ],
+          "travelled": false
+        },
+        {
+          "encodedWaypoints": "ecrrIvbk\\gAaiA??lf@_gB??uHo}@??ua@epB??s^ukC??gSab@??wEuY??cHib@??cI}W??mGsh@??KcT??eTx@??_O~B??eJhE??yj@bV??eh@nM??seDriA??kReN??_Ql@??qHqC??kQcA??sW_A??}e@e[??swB}|C??qLwH??wJ}K??zAgM??fHkM??~LcK??tLoK??pJmo@??j@kc@??g]idB??s@q`@??cCeT??aMgA??eOsP??cGqS??eFeF??gG{K??{HoI??cMmG??glAey@??kkBqiA??ueByaC??ioJk}}@",
+          "stops": [
+            {
+              "bearing": 89,
+              "code": "62923452",
+              "dropOffOnly": false,
+              "lat": 55.63972,
+              "lng": -4.81339,
+              "name": "Hill Street",
+              "pickUpOnly": true,
+              "relativeDeparture": 0
+            },
+            {
+              "bearing": 110,
+              "code": "62923829",
+              "dropOffOnly": false,
+              "lat": 55.64008,
+              "lng": -4.80154,
+              "name": "South Beach Road",
+              "pickUpOnly": false,
+              "relativeArrival": 60,
+              "relativeDeparture": 60
+            },
+            {
+              "bearing": 82,
+              "code": "62923264",
+              "dropOffOnly": false,
+              "lat": 55.63376,
+              "lng": -4.7849,
+              "name": "Saltcoats Station",
+              "pickUpOnly": false,
+              "relativeArrival": 240,
+              "relativeDeparture": 240
+            },
+            {
+              "bearing": 73,
+              "code": "62923534",
+              "dropOffOnly": false,
+              "lat": 55.63532,
+              "lng": -4.77491,
+              "name": "Robertson Crescent",
+              "pickUpOnly": false,
+              "relativeArrival": 300,
+              "relativeDeparture": 300
+            },
+            {
+              "bearing": 78,
+              "code": "62925252",
+              "dropOffOnly": false,
+              "lat": 55.64087,
+              "lng": -4.7568,
+              "name": "Schoolwell Street",
+              "pickUpOnly": false,
+              "relativeArrival": 540,
+              "relativeDeparture": 540
+            },
+            {
+              "bearing": 60,
+              "code": "62925238",
+              "dropOffOnly": false,
+              "lat": 55.64592,
+              "lng": -4.73428,
+              "name": "Pennyburn Roundabout",
+              "pickUpOnly": false,
+              "relativeArrival": 660,
+              "relativeDeparture": 660
+            },
+            {
+              "bearing": 76,
+              "code": "62923698",
+              "dropOffOnly": false,
+              "lat": 55.64916,
+              "lng": -4.72867,
+              "name": "Pennyburn Bridge",
+              "pickUpOnly": false,
+              "relativeArrival": 720,
+              "relativeDeparture": 720
+            },
+            {
+              "bearing": 76,
+              "code": "62923637",
+              "dropOffOnly": false,
+              "lat": 55.65025,
+              "lng": -4.72441,
+              "name": "Pennyburn Road",
+              "pickUpOnly": false,
+              "relativeArrival": 780,
+              "relativeDeparture": 780
+            },
+            {
+              "bearing": 68,
+              "code": "62923987",
+              "dropOffOnly": false,
+              "lat": 55.6517,
+              "lng": -4.71875,
+              "name": "West Doura Way",
+              "pickUpOnly": false,
+              "relativeArrival": 781,
+              "relativeDeparture": 781
+            },
+            {
+              "bearing": 79,
+              "code": "62923926",
+              "dropOffOnly": false,
+              "lat": 55.65332,
+              "lng": -4.71477,
+              "name": "Segton Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 840,
+              "relativeDeparture": 840
+            },
+            {
+              "bearing": 89,
+              "code": "62924527",
+              "dropOffOnly": false,
+              "lat": 55.65467,
+              "lng": -4.7081,
+              "name": "McGavin Way",
+              "pickUpOnly": false,
+              "relativeArrival": 900,
+              "relativeDeparture": 900
+            },
+            {
+              "bearing": 355,
+              "code": "62923824",
+              "dropOffOnly": false,
+              "lat": 55.65474,
+              "lng": -4.70472,
+              "name": "Claremont Crescent",
+              "pickUpOnly": false,
+              "relativeArrival": 960,
+              "relativeDeparture": 960
+            },
+            {
+              "bearing": 347,
+              "code": "62924293",
+              "dropOffOnly": false,
+              "lat": 55.65812,
+              "lng": -4.70502,
+              "name": "Old Woodwynd Road",
+              "pickUpOnly": false,
+              "relativeArrival": 961,
+              "relativeDeparture": 961
+            },
+            {
+              "bearing": 331,
+              "code": "62924636",
+              "dropOffOnly": false,
+              "lat": 55.66069,
+              "lng": -4.70566,
+              "name": "Park Lane",
+              "pickUpOnly": false,
+              "relativeArrival": 962,
+              "relativeDeparture": 962
+            },
+            {
+              "bearing": 333,
+              "code": "62925784",
+              "dropOffOnly": false,
+              "lat": 55.66248,
+              "lng": -4.70667,
+              "name": "Grotholm Way",
+              "pickUpOnly": false,
+              "relativeArrival": 963,
+              "relativeDeparture": 963
+            },
+            {
+              "bearing": 341,
+              "code": "62923484",
+              "dropOffOnly": false,
+              "lat": 55.66949,
+              "lng": -4.71037,
+              "name": "Cartleburn Bridge",
+              "pickUpOnly": false,
+              "relativeArrival": 1020,
+              "relativeDeparture": 1020
+            },
+            {
+              "bearing": 336,
+              "code": "62924627",
+              "dropOffOnly": false,
+              "lat": 55.67607,
+              "lng": -4.71268,
+              "name": "Dalgarven Mill Bridge",
+              "pickUpOnly": false,
+              "relativeArrival": 1080,
+              "relativeDeparture": 1080
+            },
+            {
+              "bearing": 39,
+              "code": "62924328",
+              "dropOffOnly": false,
+              "lat": 55.70274,
+              "lng": -4.72462,
+              "name": "Putyan Bridge",
+              "pickUpOnly": false,
+              "relativeArrival": 1320,
+              "relativeDeparture": 1320
+            },
+            {
+              "bearing": 356,
+              "code": "62925264",
+              "dropOffOnly": false,
+              "lat": 55.70584,
+              "lng": -4.7222,
+              "name": "Merksworth Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 1321,
+              "relativeDeparture": 1321
+            },
+            {
+              "bearing": 26,
+              "code": "62956549",
+              "dropOffOnly": false,
+              "lat": 55.70872,
+              "lng": -4.72243,
+              "name": "Sharon Street",
+              "pickUpOnly": false,
+              "relativeArrival": 1380,
+              "relativeDeparture": 1380
+            },
+            {
+              "bearing": 7,
+              "code": "62927545",
+              "dropOffOnly": false,
+              "lat": 55.71025,
+              "lng": -4.72169,
+              "name": "James Street",
+              "pickUpOnly": false,
+              "relativeArrival": 1381,
+              "relativeDeparture": 1381
+            },
+            {
+              "bearing": 5,
+              "code": "62923984",
+              "dropOffOnly": false,
+              "lat": 55.71318,
+              "lng": -4.72135,
+              "name": "Ryeside Place",
+              "pickUpOnly": false,
+              "relativeArrival": 1382,
+              "relativeDeparture": 1382
+            },
+            {
+              "bearing": 36,
+              "code": "62923982",
+              "dropOffOnly": false,
+              "lat": 55.71713,
+              "lng": -4.72104,
+              "name": "Rye Bridgend",
+              "pickUpOnly": false,
+              "relativeArrival": 1440,
+              "relativeDeparture": 1440
+            },
+            {
+              "bearing": 53,
+              "code": "62923925",
+              "dropOffOnly": false,
+              "lat": 55.72336,
+              "lng": -4.71652,
+              "name": "Dalry Inn",
+              "pickUpOnly": false,
+              "relativeArrival": 1500,
+              "relativeDeparture": 1500
+            },
+            {
+              "bearing": 36,
+              "code": "62923849",
+              "dropOffOnly": false,
+              "lat": 55.74266,
+              "lng": -4.69125,
+              "name": "Loadingbank",
+              "pickUpOnly": false,
+              "relativeArrival": 1800,
+              "relativeDeparture": 1800
+            },
+            {
+              "bearing": 48,
+              "code": "62924945",
+              "dropOffOnly": false,
+              "lat": 55.74482,
+              "lng": -4.6897,
+              "name": "Western Crescent",
+              "pickUpOnly": false,
+              "relativeArrival": 1860,
+              "relativeDeparture": 1860
+            },
+            {
+              "bearing": 101,
+              "code": "62923263",
+              "dropOffOnly": false,
+              "lat": 55.74671,
+              "lng": -4.68763,
+              "name": "Central Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 1861,
+              "relativeDeparture": 1861
+            },
+            {
+              "bearing": 122,
+              "code": "62924646",
+              "dropOffOnly": false,
+              "lat": 55.74625,
+              "lng": -4.68535,
+              "name": "Glenriddet Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 1862,
+              "relativeDeparture": 1862
+            },
+            {
+              "bearing": 139,
+              "code": "62923298",
+              "dropOffOnly": false,
+              "lat": 55.74477,
+              "lng": -4.68305,
+              "name": "Valefield Football Ground",
+              "pickUpOnly": false,
+              "relativeArrival": 1920,
+              "relativeDeparture": 1920
+            },
+            {
+              "bearing": 137,
+              "code": "62924789",
+              "dropOffOnly": false,
+              "lat": 55.74253,
+              "lng": -4.68111,
+              "name": "Garnock View",
+              "pickUpOnly": false,
+              "relativeArrival": 1921,
+              "relativeDeparture": 1921
+            },
+            {
+              "bearing": 103,
+              "code": "62925262",
+              "dropOffOnly": false,
+              "lat": 55.74033,
+              "lng": -4.67911,
+              "name": "Garnockside",
+              "pickUpOnly": false,
+              "relativeArrival": 1980,
+              "relativeDeparture": 1980
+            },
+            {
+              "bearing": 92,
+              "code": "62923859",
+              "dropOffOnly": false,
+              "lat": 55.73849,
+              "lng": -4.67135,
+              "name": "Garnock Campus",
+              "pickUpOnly": false,
+              "relativeArrival": 2040,
+              "relativeDeparture": 2040
+            },
+            {
+              "bearing": 74,
+              "code": "62925275",
+              "dropOffOnly": false,
+              "lat": 55.73826,
+              "lng": -4.66554,
+              "name": "Longbar Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 2041,
+              "relativeDeparture": 2041
+            },
+            {
+              "bearing": 88,
+              "code": "62925392",
+              "dropOffOnly": false,
+              "lat": 55.74311,
+              "lng": -4.64933,
+              "name": "Willowburn Road",
+              "pickUpOnly": false,
+              "relativeArrival": 2160,
+              "relativeDeparture": 2160
+            },
+            {
+              "bearing": 80,
+              "code": "62923954",
+              "dropOffOnly": false,
+              "lat": 55.74337,
+              "lng": -4.64396,
+              "name": "Spiers Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 2220,
+              "relativeDeparture": 2220
+            },
+            {
+              "bearing": 9,
+              "code": "62923437",
+              "dropOffOnly": false,
+              "lat": 55.74403,
+              "lng": -4.64056,
+              "name": "Manuel Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 2221,
+              "relativeDeparture": 2221
+            },
+            {
+              "bearing": 48,
+              "code": "62923986",
+              "dropOffOnly": false,
+              "lat": 55.74627,
+              "lng": -4.64021,
+              "name": "Grahamfield Place",
+              "pickUpOnly": false,
+              "relativeArrival": 2280,
+              "relativeDeparture": 2280
+            },
+            {
+              "bearing": 69,
+              "code": "62924925",
+              "dropOffOnly": false,
+              "lat": 55.74887,
+              "lng": -4.63738,
+              "name": "Glebe Road",
+              "pickUpOnly": false,
+              "relativeArrival": 2281,
+              "relativeDeparture": 2281
+            },
+            {
+              "bearing": 46,
+              "code": "62923723",
+              "dropOffOnly": false,
+              "lat": 55.75017,
+              "lng": -4.63409,
+              "name": "Strand",
+              "pickUpOnly": false,
+              "relativeArrival": 2340,
+              "relativeDeparture": 2340
+            },
+            {
+              "bearing": 58,
+              "code": "62924735",
+              "dropOffOnly": false,
+              "lat": 55.75132,
+              "lng": -4.63294,
+              "name": "Bellmans Close",
+              "pickUpOnly": false,
+              "relativeArrival": 2341,
+              "relativeDeparture": 2341
+            },
+            {
+              "bearing": 47,
+              "code": "62924272",
+              "dropOffOnly": false,
+              "lat": 55.75264,
+              "lng": -4.63088,
+              "name": "Wilson Street",
+              "pickUpOnly": false,
+              "relativeArrival": 2342,
+              "relativeDeparture": 2342
+            },
+            {
+              "bearing": 31,
+              "code": "62925327",
+              "dropOffOnly": false,
+              "lat": 55.75421,
+              "lng": -4.6292,
+              "name": "Bigholm Road",
+              "pickUpOnly": false,
+              "relativeArrival": 2343,
+              "relativeDeparture": 2343
+            },
+            {
+              "bearing": 37,
+              "code": "62923652",
+              "dropOffOnly": false,
+              "lat": 55.75648,
+              "lng": -4.62786,
+              "name": "Beech Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 2400,
+              "relativeDeparture": 2400
+            },
+            {
+              "bearing": 35,
+              "code": "73923435",
+              "dropOffOnly": false,
+              "lat": 55.76884,
+              "lng": -4.61855,
+              "name": "Clarksbridge Roundabout",
+              "pickUpOnly": false,
+              "relativeArrival": 2460,
+              "relativeDeparture": 2460
+            },
+            {
+              "bearing": 52,
+              "code": "73923492",
+              "dropOffOnly": false,
+              "lat": 55.78617,
+              "lng": -4.60661,
+              "name": "A737 Roundabout",
+              "pickUpOnly": false,
+              "relativeArrival": 2640,
+              "relativeDeparture": 2640
+            },
+            {
+              "bearing": 80,
+              "code": "73926786",
+              "dropOffOnly": false,
+              "lat": 55.8026,
+              "lng": -4.58569,
+              "name": "Risk Cottages",
+              "pickUpOnly": false,
+              "relativeArrival": 2820,
+              "relativeDeparture": 2820
+            },
+            {
+              "code": "45235639",
+              "dropOffOnly": false,
+              "lat": 55.86154,
+              "lng": -4.26339,
+              "name": "Blythswood Street",
+              "pickUpOnly": false,
+              "relativeArrival": 4500,
+              "relativeDeparture": 4500
+            }
+          ],
+          "travelled": true
+        },
+        {
+          "encodedWaypoints": "qm}sIdu_YpAoX??mOcI??{Iik@",
+          "stops": [
+            {
+              "bearing": 32,
+              "code": "45234765",
+              "dropOffOnly": false,
+              "lat": 55.86113,
+              "lng": -4.2593,
+              "name": "Waterloo Lane",
+              "pickUpOnly": false,
+              "relativeDeparture": 4501
+            },
+            {
+              "bearing": 77,
+              "code": "45236758",
+              "dropOffOnly": false,
+              "lat": 55.86375,
+              "lng": -4.25768,
+              "name": "Bath Street",
+              "pickUpOnly": false,
+              "relativeArrival": 4620,
+              "relativeDeparture": 4620
+            },
+            {
+              "code": "45242868",
+              "dropOffOnly": false,
+              "lat": 55.86549,
+              "lng": -4.25059,
+              "name": "Buchanan Bus Station",
+              "pickUpOnly": false,
+              "relativeArrival": 4860
+            }
+          ],
+          "travelled": false
+        }
+      ],
+      "sources": [{ "provider": "Stagecoach West Scotland" }],
+      "stopCode": "62923452",
+      "to": {
+        "address": "Blythswood Street",
+        "class": "StopLocation",
+        "code": "45235639",
+        "id": "pt_pub|UK_SouthScotland|45235639",
+        "lat": 55.86154,
+        "lng": -4.26339,
+        "modeInfo": {
+          "alt": "bus",
+          "identifier": "pt_pub_bus",
+          "localIcon": "bus"
+        },
+        "name": "Blythswood Street",
+        "popularity": 757,
+        "publicTransportMode": "pt_pub_bus",
+        "region": "UK_SouthScotland",
+        "services": "500, XP23, X8, X7, X36,...",
+        "stopCode": "45235639",
+        "stopType": "bus",
+        "timezone": "Europe/London"
+      },
+      "travelDirection": 69,
+      "type": "scheduled",
+      "visibility": "in summary"
+    },
+    {
+      "action": "<TIME>: Walk",
+      "from": {
+        "address": "Blythswood Street",
+        "class": "StopLocation",
+        "code": "45235639",
+        "id": "pt_pub|UK_SouthScotland|45235639",
+        "lat": 55.86154,
+        "lng": -4.26339,
+        "modeInfo": {
+          "alt": "bus",
+          "identifier": "pt_pub_bus",
+          "localIcon": "bus"
+        },
+        "name": "Blythswood Street",
+        "popularity": 757,
+        "publicTransportMode": "pt_pub_bus",
+        "region": "UK_SouthScotland",
+        "services": "500, XP23, X8, X7, X36,...",
+        "stopCode": "45235639",
+        "stopType": "bus",
+        "timezone": "Europe/London"
+      },
+      "hashCode": -1237129389,
+      "localCost": {
+        "accuracy": "internal_estimate",
+        "cost": 0,
+        "currency": "GBP"
+      },
+      "metres": 419,
+      "mini": {
+        "description": "Near Pitt Street & Waterloo Street",
+        "instruction": "Walk",
+        "mainValue": "1/4 mile"
+      },
+      "modeIdentifier": "wa_wal",
+      "modeInfo": {
+        "alt": "Walk",
+        "color": { "blue": 99, "green": 199, "red": 30 },
+        "identifier": "wa_wal",
+        "localIcon": "walk"
+      },
+      "notes": "<DURATION> â 1/4 mile",
+      "streets": [
+        {
+          "encodedWaypoints": "qm}sIdu_YNo@",
+          "instruction": "HEAD_TOWARDS",
+          "metres": 17,
+          "name": "Walk"
+        },
+        {
+          "encodedWaypoints": "am}sIts_YrA^",
+          "instruction": "TURN_RIGHT",
+          "metres": 47,
+          "name": "Blythswood Street"
+        },
+        {
+          "encodedWaypoints": "mj}sItt_Y[bH",
+          "instruction": "TURN_RIGHT",
+          "metres": 92,
+          "name": "St Peter's Lane"
+        },
+        {
+          "encodedWaypoints": "ik}sIx}_YfAXBDCzF?rA",
+          "instruction": "TURN_LEFT",
+          "metres": 149,
+          "name": "Douglas Street"
+        },
+        {
+          "encodedWaypoints": "ai}sIhi`Y@?OdCGfBAn@@b@B^",
+          "instruction": "CONTINUE_STRAIGHT",
+          "metres": 113,
+          "name": "Anderston Bridge"
+        }
+      ],
+      "to": {
+        "address": "Near Pitt Street & Waterloo Street",
+        "class": "Location",
+        "lat": 55.8609,
+        "lng": -4.26837,
+        "region": "UK_SouthScotland",
+        "timezone": "Europe/London"
+      },
+      "travelDirection": 257,
+      "type": "unscheduled",
+      "visibility": "in summary"
+    },
+    {
+      "action": "<TIME>: Take <NUMBER>",
+      "endStopCode": "45235639",
+      "from": {
+        "address": "Hill Street",
+        "class": "StopLocation",
+        "code": "62923452",
+        "id": "pt_pub|UK_SouthScotland|62923452",
+        "lat": 55.63972,
+        "lng": -4.81339,
+        "modeInfo": {
+          "alt": "bus",
+          "identifier": "pt_pub_bus",
+          "localIcon": "bus"
+        },
+        "name": "Hill Street",
+        "popularity": 486,
+        "publicTransportMode": "pt_pub_bus",
+        "region": "UK_SouthScotland",
+        "services": "11, 585, X36, 12, 585A",
+        "stopCode": "62923452",
+        "stopType": "bus",
+        "timezone": "Europe/London"
+      },
+      "hashCode": -807445648,
+      "mini": {
+        "description": "<DIRECTION>",
+        "instruction": "Take <NUMBER> â <PLATFORM>"
+      },
+      "modeIdentifier": "pt_pub",
+      "modeInfo": {
+        "alt": "Bus",
+        "color": { "blue": 104, "green": 197, "red": 45 },
+        "identifier": "pt_pub_bus",
+        "localIcon": "bus"
+      },
+      "notes": "<LINE_NAME>\n<DIRECTION>\n<PLATFORM>\n<DURATION> â <STOPS>",
+      "operator": "Stagecoach West Scotland",
+      "operatorID": "STWS",
+      "serviceOperator": "Stagecoach West Scotland",
+      "shapes": [
+        {
+          "encodedWaypoints": "ecrrIvbk\\gAaiA??lf@_gB??uHo}@??ua@epB??s^ukC??gSab@??wEuY??cHib@??cI}W??mGsh@??KcT??eTx@??_O~B??eJhE??yj@bV??eh@nM??seDriA??kReN??_Ql@??qHqC??kQcA??sW_A??}e@e[??swB}|C??qLwH??wJ}K??zAgM??fHkM??~LcK??tLoK??pJmo@??j@kc@??g]idB??s@q`@??cCeT??aMgA??eOsP??cGqS??eFeF??gG{K??{HoI??cMmG??glAey@??kkBqiA??ueByaC??ioJk}}@",
+          "stops": [
+            {
+              "bearing": 89,
+              "code": "62923452",
+              "dropOffOnly": false,
+              "lat": 55.63972,
+              "lng": -4.81339,
+              "name": "Hill Street",
+              "pickUpOnly": true,
+              "relativeDeparture": 0
+            },
+            {
+              "bearing": 110,
+              "code": "62923829",
+              "dropOffOnly": false,
+              "lat": 55.64008,
+              "lng": -4.80154,
+              "name": "South Beach Road",
+              "pickUpOnly": false,
+              "relativeArrival": 60,
+              "relativeDeparture": 60
+            },
+            {
+              "bearing": 82,
+              "code": "62923264",
+              "dropOffOnly": false,
+              "lat": 55.63376,
+              "lng": -4.7849,
+              "name": "Saltcoats Station",
+              "pickUpOnly": false,
+              "relativeArrival": 240,
+              "relativeDeparture": 240
+            },
+            {
+              "bearing": 73,
+              "code": "62923534",
+              "dropOffOnly": false,
+              "lat": 55.63532,
+              "lng": -4.77491,
+              "name": "Robertson Crescent",
+              "pickUpOnly": false,
+              "relativeArrival": 300,
+              "relativeDeparture": 300
+            },
+            {
+              "bearing": 78,
+              "code": "62925252",
+              "dropOffOnly": false,
+              "lat": 55.64087,
+              "lng": -4.7568,
+              "name": "Schoolwell Street",
+              "pickUpOnly": false,
+              "relativeArrival": 540,
+              "relativeDeparture": 540
+            },
+            {
+              "bearing": 60,
+              "code": "62925238",
+              "dropOffOnly": false,
+              "lat": 55.64592,
+              "lng": -4.73428,
+              "name": "Pennyburn Roundabout",
+              "pickUpOnly": false,
+              "relativeArrival": 660,
+              "relativeDeparture": 660
+            },
+            {
+              "bearing": 76,
+              "code": "62923698",
+              "dropOffOnly": false,
+              "lat": 55.64916,
+              "lng": -4.72867,
+              "name": "Pennyburn Bridge",
+              "pickUpOnly": false,
+              "relativeArrival": 720,
+              "relativeDeparture": 720
+            },
+            {
+              "bearing": 76,
+              "code": "62923637",
+              "dropOffOnly": false,
+              "lat": 55.65025,
+              "lng": -4.72441,
+              "name": "Pennyburn Road",
+              "pickUpOnly": false,
+              "relativeArrival": 721,
+              "relativeDeparture": 721
+            },
+            {
+              "bearing": 68,
+              "code": "62923987",
+              "dropOffOnly": false,
+              "lat": 55.6517,
+              "lng": -4.71875,
+              "name": "West Doura Way",
+              "pickUpOnly": false,
+              "relativeArrival": 780,
+              "relativeDeparture": 780
+            },
+            {
+              "bearing": 79,
+              "code": "62923926",
+              "dropOffOnly": false,
+              "lat": 55.65332,
+              "lng": -4.71477,
+              "name": "Segton Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 781,
+              "relativeDeparture": 781
+            },
+            {
+              "bearing": 89,
+              "code": "62924527",
+              "dropOffOnly": false,
+              "lat": 55.65467,
+              "lng": -4.7081,
+              "name": "McGavin Way",
+              "pickUpOnly": false,
+              "relativeArrival": 840,
+              "relativeDeparture": 840
+            },
+            {
+              "bearing": 355,
+              "code": "62923824",
+              "dropOffOnly": false,
+              "lat": 55.65474,
+              "lng": -4.70472,
+              "name": "Claremont Crescent",
+              "pickUpOnly": false,
+              "relativeArrival": 900,
+              "relativeDeparture": 900
+            },
+            {
+              "bearing": 347,
+              "code": "62924293",
+              "dropOffOnly": false,
+              "lat": 55.65812,
+              "lng": -4.70502,
+              "name": "Old Woodwynd Road",
+              "pickUpOnly": false,
+              "relativeArrival": 901,
+              "relativeDeparture": 901
+            },
+            {
+              "bearing": 331,
+              "code": "62924636",
+              "dropOffOnly": false,
+              "lat": 55.66069,
+              "lng": -4.70566,
+              "name": "Park Lane",
+              "pickUpOnly": false,
+              "relativeArrival": 902,
+              "relativeDeparture": 902
+            },
+            {
+              "bearing": 333,
+              "code": "62925784",
+              "dropOffOnly": false,
+              "lat": 55.66248,
+              "lng": -4.70667,
+              "name": "Grotholm Way",
+              "pickUpOnly": false,
+              "relativeArrival": 960,
+              "relativeDeparture": 960
+            },
+            {
+              "bearing": 341,
+              "code": "62923484",
+              "dropOffOnly": false,
+              "lat": 55.66949,
+              "lng": -4.71037,
+              "name": "Cartleburn Bridge",
+              "pickUpOnly": false,
+              "relativeArrival": 1020,
+              "relativeDeparture": 1020
+            },
+            {
+              "bearing": 336,
+              "code": "62924627",
+              "dropOffOnly": false,
+              "lat": 55.67607,
+              "lng": -4.71268,
+              "name": "Dalgarven Mill Bridge",
+              "pickUpOnly": false,
+              "relativeArrival": 1080,
+              "relativeDeparture": 1080
+            },
+            {
+              "bearing": 39,
+              "code": "62924328",
+              "dropOffOnly": false,
+              "lat": 55.70274,
+              "lng": -4.72462,
+              "name": "Putyan Bridge",
+              "pickUpOnly": false,
+              "relativeArrival": 1260,
+              "relativeDeparture": 1260
+            },
+            {
+              "bearing": 356,
+              "code": "62925264",
+              "dropOffOnly": false,
+              "lat": 55.70584,
+              "lng": -4.7222,
+              "name": "Merksworth Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 1320,
+              "relativeDeparture": 1320
+            },
+            {
+              "bearing": 26,
+              "code": "62956549",
+              "dropOffOnly": false,
+              "lat": 55.70872,
+              "lng": -4.72243,
+              "name": "Sharon Street",
+              "pickUpOnly": false,
+              "relativeArrival": 1380,
+              "relativeDeparture": 1380
+            },
+            {
+              "bearing": 7,
+              "code": "62927545",
+              "dropOffOnly": false,
+              "lat": 55.71025,
+              "lng": -4.72169,
+              "name": "James Street",
+              "pickUpOnly": false,
+              "relativeArrival": 1381,
+              "relativeDeparture": 1381
+            },
+            {
+              "bearing": 5,
+              "code": "62923984",
+              "dropOffOnly": false,
+              "lat": 55.71318,
+              "lng": -4.72135,
+              "name": "Ryeside Place",
+              "pickUpOnly": false,
+              "relativeArrival": 1382,
+              "relativeDeparture": 1382
+            },
+            {
+              "bearing": 36,
+              "code": "62923982",
+              "dropOffOnly": false,
+              "lat": 55.71713,
+              "lng": -4.72104,
+              "name": "Rye Bridgend",
+              "pickUpOnly": false,
+              "relativeArrival": 1440,
+              "relativeDeparture": 1440
+            },
+            {
+              "bearing": 53,
+              "code": "62923925",
+              "dropOffOnly": false,
+              "lat": 55.72336,
+              "lng": -4.71652,
+              "name": "Dalry Inn",
+              "pickUpOnly": false,
+              "relativeArrival": 1500,
+              "relativeDeparture": 1500
+            },
+            {
+              "bearing": 36,
+              "code": "62923849",
+              "dropOffOnly": false,
+              "lat": 55.74266,
+              "lng": -4.69125,
+              "name": "Loadingbank",
+              "pickUpOnly": false,
+              "relativeArrival": 1740,
+              "relativeDeparture": 1740
+            },
+            {
+              "bearing": 48,
+              "code": "62924945",
+              "dropOffOnly": false,
+              "lat": 55.74482,
+              "lng": -4.6897,
+              "name": "Western Crescent",
+              "pickUpOnly": false,
+              "relativeArrival": 1800,
+              "relativeDeparture": 1800
+            },
+            {
+              "bearing": 101,
+              "code": "62923263",
+              "dropOffOnly": false,
+              "lat": 55.74671,
+              "lng": -4.68763,
+              "name": "Central Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 1801,
+              "relativeDeparture": 1801
+            },
+            {
+              "bearing": 122,
+              "code": "62924646",
+              "dropOffOnly": false,
+              "lat": 55.74625,
+              "lng": -4.68535,
+              "name": "Glenriddet Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 1860,
+              "relativeDeparture": 1860
+            },
+            {
+              "bearing": 139,
+              "code": "62923298",
+              "dropOffOnly": false,
+              "lat": 55.74477,
+              "lng": -4.68305,
+              "name": "Valefield Football Ground",
+              "pickUpOnly": false,
+              "relativeArrival": 1861,
+              "relativeDeparture": 1861
+            },
+            {
+              "bearing": 137,
+              "code": "62924789",
+              "dropOffOnly": false,
+              "lat": 55.74253,
+              "lng": -4.68111,
+              "name": "Garnock View",
+              "pickUpOnly": false,
+              "relativeArrival": 1920,
+              "relativeDeparture": 1920
+            },
+            {
+              "bearing": 103,
+              "code": "62925262",
+              "dropOffOnly": false,
+              "lat": 55.74033,
+              "lng": -4.67911,
+              "name": "Garnockside",
+              "pickUpOnly": false,
+              "relativeArrival": 1921,
+              "relativeDeparture": 1921
+            },
+            {
+              "bearing": 92,
+              "code": "62923859",
+              "dropOffOnly": false,
+              "lat": 55.73849,
+              "lng": -4.67135,
+              "name": "Garnock Campus",
+              "pickUpOnly": false,
+              "relativeArrival": 1980,
+              "relativeDeparture": 1980
+            },
+            {
+              "bearing": 74,
+              "code": "62925275",
+              "dropOffOnly": false,
+              "lat": 55.73826,
+              "lng": -4.66554,
+              "name": "Longbar Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 2040,
+              "relativeDeparture": 2040
+            },
+            {
+              "bearing": 88,
+              "code": "62925392",
+              "dropOffOnly": false,
+              "lat": 55.74311,
+              "lng": -4.64933,
+              "name": "Willowburn Road",
+              "pickUpOnly": false,
+              "relativeArrival": 2160,
+              "relativeDeparture": 2160
+            },
+            {
+              "bearing": 80,
+              "code": "62923954",
+              "dropOffOnly": false,
+              "lat": 55.74337,
+              "lng": -4.64396,
+              "name": "Spiers Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 2220,
+              "relativeDeparture": 2220
+            },
+            {
+              "bearing": 9,
+              "code": "62923437",
+              "dropOffOnly": false,
+              "lat": 55.74403,
+              "lng": -4.64056,
+              "name": "Manuel Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 2280,
+              "relativeDeparture": 2280
+            },
+            {
+              "bearing": 48,
+              "code": "62923986",
+              "dropOffOnly": false,
+              "lat": 55.74627,
+              "lng": -4.64021,
+              "name": "Grahamfield Place",
+              "pickUpOnly": false,
+              "relativeArrival": 2281,
+              "relativeDeparture": 2281
+            },
+            {
+              "bearing": 69,
+              "code": "62924925",
+              "dropOffOnly": false,
+              "lat": 55.74887,
+              "lng": -4.63738,
+              "name": "Glebe Road",
+              "pickUpOnly": false,
+              "relativeArrival": 2340,
+              "relativeDeparture": 2340
+            },
+            {
+              "bearing": 46,
+              "code": "62923723",
+              "dropOffOnly": false,
+              "lat": 55.75017,
+              "lng": -4.63409,
+              "name": "Strand",
+              "pickUpOnly": false,
+              "relativeArrival": 2400,
+              "relativeDeparture": 2580
+            },
+            {
+              "bearing": 58,
+              "code": "62924735",
+              "dropOffOnly": false,
+              "lat": 55.75132,
+              "lng": -4.63294,
+              "name": "Bellmans Close",
+              "pickUpOnly": false,
+              "relativeArrival": 2581,
+              "relativeDeparture": 2581
+            },
+            {
+              "bearing": 47,
+              "code": "62924272",
+              "dropOffOnly": false,
+              "lat": 55.75264,
+              "lng": -4.63088,
+              "name": "Wilson Street",
+              "pickUpOnly": false,
+              "relativeArrival": 2582,
+              "relativeDeparture": 2582
+            },
+            {
+              "bearing": 31,
+              "code": "62925327",
+              "dropOffOnly": false,
+              "lat": 55.75421,
+              "lng": -4.6292,
+              "name": "Bigholm Road",
+              "pickUpOnly": false,
+              "relativeArrival": 2583,
+              "relativeDeparture": 2583
+            },
+            {
+              "bearing": 37,
+              "code": "62923652",
+              "dropOffOnly": false,
+              "lat": 55.75648,
+              "lng": -4.62786,
+              "name": "Beech Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 2640,
+              "relativeDeparture": 2640
+            },
+            {
+              "bearing": 35,
+              "code": "73923435",
+              "dropOffOnly": false,
+              "lat": 55.76884,
+              "lng": -4.61855,
+              "name": "Clarksbridge Roundabout",
+              "pickUpOnly": false,
+              "relativeArrival": 2700,
+              "relativeDeparture": 2700
+            },
+            {
+              "bearing": 52,
+              "code": "73923492",
+              "dropOffOnly": false,
+              "lat": 55.78617,
+              "lng": -4.60661,
+              "name": "A737 Roundabout",
+              "pickUpOnly": false,
+              "relativeArrival": 2880,
+              "relativeDeparture": 2880
+            },
+            {
+              "bearing": 80,
+              "code": "73926786",
+              "dropOffOnly": false,
+              "lat": 55.8026,
+              "lng": -4.58569,
+              "name": "Risk Cottages",
+              "pickUpOnly": false,
+              "relativeArrival": 3060,
+              "relativeDeparture": 3060
+            },
+            {
+              "code": "45235639",
+              "dropOffOnly": false,
+              "lat": 55.86154,
+              "lng": -4.26339,
+              "name": "Blythswood Street",
+              "pickUpOnly": false,
+              "relativeArrival": 4260,
+              "relativeDeparture": 4260
+            }
+          ],
+          "travelled": true
+        },
+        {
+          "encodedWaypoints": "qm}sIdu_YpAoX??mOcI??{Iik@",
+          "stops": [
+            {
+              "bearing": 32,
+              "code": "45234765",
+              "dropOffOnly": false,
+              "lat": 55.86113,
+              "lng": -4.2593,
+              "name": "Waterloo Lane",
+              "pickUpOnly": false,
+              "relativeDeparture": 4261
+            },
+            {
+              "bearing": 77,
+              "code": "45236758",
+              "dropOffOnly": false,
+              "lat": 55.86375,
+              "lng": -4.25768,
+              "name": "Bath Street",
+              "pickUpOnly": false,
+              "relativeArrival": 4380,
+              "relativeDeparture": 4380
+            },
+            {
+              "code": "45242868",
+              "dropOffOnly": false,
+              "lat": 55.86549,
+              "lng": -4.25059,
+              "name": "Buchanan Bus Station",
+              "pickUpOnly": false,
+              "relativeArrival": 4620
+            }
+          ],
+          "travelled": false
+        }
+      ],
+      "sources": [{ "provider": "Stagecoach West Scotland" }],
+      "stopCode": "62923452",
+      "to": {
+        "address": "Blythswood Street",
+        "class": "StopLocation",
+        "code": "45235639",
+        "id": "pt_pub|UK_SouthScotland|45235639",
+        "lat": 55.86154,
+        "lng": -4.26339,
+        "modeInfo": {
+          "alt": "bus",
+          "identifier": "pt_pub_bus",
+          "localIcon": "bus"
+        },
+        "name": "Blythswood Street",
+        "popularity": 757,
+        "publicTransportMode": "pt_pub_bus",
+        "region": "UK_SouthScotland",
+        "services": "500, XP23, X8, X7, X36,...",
+        "stopCode": "45235639",
+        "stopType": "bus",
+        "timezone": "Europe/London"
+      },
+      "travelDirection": 69,
+      "type": "scheduled",
+      "visibility": "in summary"
+    },
+    {
+      "action": "<TIME>: Take <NUMBER>",
+      "endStopCode": "45235639",
+      "from": {
+        "address": "Hill Street",
+        "class": "StopLocation",
+        "code": "62923452",
+        "id": "pt_pub|UK_SouthScotland|62923452",
+        "lat": 55.63972,
+        "lng": -4.81339,
+        "modeInfo": {
+          "alt": "bus",
+          "identifier": "pt_pub_bus",
+          "localIcon": "bus"
+        },
+        "name": "Hill Street",
+        "popularity": 486,
+        "publicTransportMode": "pt_pub_bus",
+        "region": "UK_SouthScotland",
+        "services": "11, 585, X36, 12, 585A",
+        "stopCode": "62923452",
+        "stopType": "bus",
+        "timezone": "Europe/London"
+      },
+      "hashCode": -760129700,
+      "mini": {
+        "description": "<DIRECTION>",
+        "instruction": "Take <NUMBER> â <PLATFORM>"
+      },
+      "modeIdentifier": "pt_pub",
+      "modeInfo": {
+        "alt": "Bus",
+        "color": { "blue": 104, "green": 197, "red": 45 },
+        "identifier": "pt_pub_bus",
+        "localIcon": "bus"
+      },
+      "notes": "<LINE_NAME>\n<DIRECTION>\n<PLATFORM>\n<DURATION> â <STOPS>",
+      "operator": "Stagecoach West Scotland",
+      "operatorID": "STWS",
+      "serviceOperator": "Stagecoach West Scotland",
+      "shapes": [
+        {
+          "encodedWaypoints": "ecrrIvbk\\gAaiA??lf@_gB??uHo}@??ua@epB??s^ukC??gSab@??wEuY??cHib@??cI}W??mGsh@??KcT??eTx@??_O~B??eJhE??yj@bV??eh@nM??seDriA??kReN??_Ql@??qHqC??kQcA??sW_A??}e@e[??swB}|C??qLwH??wJ}K??zAgM??fHkM??~LcK??tLoK??pJmo@??j@kc@??g]idB??s@q`@??cCeT??aMgA??eOsP??cGqS??eFeF??gG{K??{HoI??cMmG??glAey@??kkBqiA??ueByaC??ioJk}}@",
+          "stops": [
+            {
+              "bearing": 89,
+              "code": "62923452",
+              "dropOffOnly": false,
+              "lat": 55.63972,
+              "lng": -4.81339,
+              "name": "Hill Street",
+              "pickUpOnly": true,
+              "relativeDeparture": 0
+            },
+            {
+              "bearing": 110,
+              "code": "62923829",
+              "dropOffOnly": false,
+              "lat": 55.64008,
+              "lng": -4.80154,
+              "name": "South Beach Road",
+              "pickUpOnly": false,
+              "relativeArrival": 60,
+              "relativeDeparture": 60
+            },
+            {
+              "bearing": 82,
+              "code": "62923264",
+              "dropOffOnly": false,
+              "lat": 55.63376,
+              "lng": -4.7849,
+              "name": "Saltcoats Station",
+              "pickUpOnly": false,
+              "relativeArrival": 300,
+              "relativeDeparture": 300
+            },
+            {
+              "bearing": 73,
+              "code": "62923534",
+              "dropOffOnly": false,
+              "lat": 55.63532,
+              "lng": -4.77491,
+              "name": "Robertson Crescent",
+              "pickUpOnly": false,
+              "relativeArrival": 360,
+              "relativeDeparture": 360
+            },
+            {
+              "bearing": 78,
+              "code": "62925252",
+              "dropOffOnly": false,
+              "lat": 55.64087,
+              "lng": -4.7568,
+              "name": "Schoolwell Street",
+              "pickUpOnly": false,
+              "relativeArrival": 600,
+              "relativeDeparture": 600
+            },
+            {
+              "bearing": 60,
+              "code": "62925238",
+              "dropOffOnly": false,
+              "lat": 55.64592,
+              "lng": -4.73428,
+              "name": "Pennyburn Roundabout",
+              "pickUpOnly": false,
+              "relativeArrival": 780,
+              "relativeDeparture": 780
+            },
+            {
+              "bearing": 76,
+              "code": "62923698",
+              "dropOffOnly": false,
+              "lat": 55.64916,
+              "lng": -4.72867,
+              "name": "Pennyburn Bridge",
+              "pickUpOnly": false,
+              "relativeArrival": 840,
+              "relativeDeparture": 840
+            },
+            {
+              "bearing": 76,
+              "code": "62923637",
+              "dropOffOnly": false,
+              "lat": 55.65025,
+              "lng": -4.72441,
+              "name": "Pennyburn Road",
+              "pickUpOnly": false,
+              "relativeArrival": 841,
+              "relativeDeparture": 841
+            },
+            {
+              "bearing": 68,
+              "code": "62923987",
+              "dropOffOnly": false,
+              "lat": 55.6517,
+              "lng": -4.71875,
+              "name": "West Doura Way",
+              "pickUpOnly": false,
+              "relativeArrival": 900,
+              "relativeDeparture": 900
+            },
+            {
+              "bearing": 79,
+              "code": "62923926",
+              "dropOffOnly": false,
+              "lat": 55.65332,
+              "lng": -4.71477,
+              "name": "Segton Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 960,
+              "relativeDeparture": 960
+            },
+            {
+              "bearing": 89,
+              "code": "62924527",
+              "dropOffOnly": false,
+              "lat": 55.65467,
+              "lng": -4.7081,
+              "name": "McGavin Way",
+              "pickUpOnly": false,
+              "relativeArrival": 1020,
+              "relativeDeparture": 1020
+            },
+            {
+              "bearing": 355,
+              "code": "62923824",
+              "dropOffOnly": false,
+              "lat": 55.65474,
+              "lng": -4.70472,
+              "name": "Claremont Crescent",
+              "pickUpOnly": false,
+              "relativeArrival": 1080,
+              "relativeDeparture": 1080
+            },
+            {
+              "bearing": 347,
+              "code": "62924293",
+              "dropOffOnly": false,
+              "lat": 55.65812,
+              "lng": -4.70502,
+              "name": "Old Woodwynd Road",
+              "pickUpOnly": false,
+              "relativeArrival": 1081,
+              "relativeDeparture": 1081
+            },
+            {
+              "bearing": 331,
+              "code": "62924636",
+              "dropOffOnly": false,
+              "lat": 55.66069,
+              "lng": -4.70566,
+              "name": "Park Lane",
+              "pickUpOnly": false,
+              "relativeArrival": 1082,
+              "relativeDeparture": 1082
+            },
+            {
+              "bearing": 333,
+              "code": "62925784",
+              "dropOffOnly": false,
+              "lat": 55.66248,
+              "lng": -4.70667,
+              "name": "Grotholm Way",
+              "pickUpOnly": false,
+              "relativeArrival": 1140,
+              "relativeDeparture": 1140
+            },
+            {
+              "bearing": 341,
+              "code": "62923484",
+              "dropOffOnly": false,
+              "lat": 55.66949,
+              "lng": -4.71037,
+              "name": "Cartleburn Bridge",
+              "pickUpOnly": false,
+              "relativeArrival": 1200,
+              "relativeDeparture": 1200
+            },
+            {
+              "bearing": 336,
+              "code": "62924627",
+              "dropOffOnly": false,
+              "lat": 55.67607,
+              "lng": -4.71268,
+              "name": "Dalgarven Mill Bridge",
+              "pickUpOnly": false,
+              "relativeArrival": 1260,
+              "relativeDeparture": 1260
+            },
+            {
+              "bearing": 39,
+              "code": "62924328",
+              "dropOffOnly": false,
+              "lat": 55.70274,
+              "lng": -4.72462,
+              "name": "Putyan Bridge",
+              "pickUpOnly": false,
+              "relativeArrival": 1440,
+              "relativeDeparture": 1440
+            },
+            {
+              "bearing": 356,
+              "code": "62925264",
+              "dropOffOnly": false,
+              "lat": 55.70584,
+              "lng": -4.7222,
+              "name": "Merksworth Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 1500,
+              "relativeDeparture": 1500
+            },
+            {
+              "bearing": 26,
+              "code": "62956549",
+              "dropOffOnly": false,
+              "lat": 55.70872,
+              "lng": -4.72243,
+              "name": "Sharon Street",
+              "pickUpOnly": false,
+              "relativeArrival": 1560,
+              "relativeDeparture": 1560
+            },
+            {
+              "bearing": 7,
+              "code": "62927545",
+              "dropOffOnly": false,
+              "lat": 55.71025,
+              "lng": -4.72169,
+              "name": "James Street",
+              "pickUpOnly": false,
+              "relativeArrival": 1561,
+              "relativeDeparture": 1561
+            },
+            {
+              "bearing": 5,
+              "code": "62923984",
+              "dropOffOnly": false,
+              "lat": 55.71318,
+              "lng": -4.72135,
+              "name": "Ryeside Place",
+              "pickUpOnly": false,
+              "relativeArrival": 1562,
+              "relativeDeparture": 1562
+            },
+            {
+              "bearing": 36,
+              "code": "62923982",
+              "dropOffOnly": false,
+              "lat": 55.71713,
+              "lng": -4.72104,
+              "name": "Rye Bridgend",
+              "pickUpOnly": false,
+              "relativeArrival": 1620,
+              "relativeDeparture": 1620
+            },
+            {
+              "bearing": 53,
+              "code": "62923925",
+              "dropOffOnly": false,
+              "lat": 55.72336,
+              "lng": -4.71652,
+              "name": "Dalry Inn",
+              "pickUpOnly": false,
+              "relativeArrival": 1680,
+              "relativeDeparture": 1680
+            },
+            {
+              "bearing": 36,
+              "code": "62923849",
+              "dropOffOnly": false,
+              "lat": 55.74266,
+              "lng": -4.69125,
+              "name": "Loadingbank",
+              "pickUpOnly": false,
+              "relativeArrival": 1920,
+              "relativeDeparture": 1920
+            },
+            {
+              "bearing": 48,
+              "code": "62924945",
+              "dropOffOnly": false,
+              "lat": 55.74482,
+              "lng": -4.6897,
+              "name": "Western Crescent",
+              "pickUpOnly": false,
+              "relativeArrival": 1980,
+              "relativeDeparture": 1980
+            },
+            {
+              "bearing": 101,
+              "code": "62923263",
+              "dropOffOnly": false,
+              "lat": 55.74671,
+              "lng": -4.68763,
+              "name": "Central Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 1981,
+              "relativeDeparture": 1981
+            },
+            {
+              "bearing": 122,
+              "code": "62924646",
+              "dropOffOnly": false,
+              "lat": 55.74625,
+              "lng": -4.68535,
+              "name": "Glenriddet Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 2040,
+              "relativeDeparture": 2040
+            },
+            {
+              "bearing": 139,
+              "code": "62923298",
+              "dropOffOnly": false,
+              "lat": 55.74477,
+              "lng": -4.68305,
+              "name": "Valefield Football Ground",
+              "pickUpOnly": false,
+              "relativeArrival": 2041,
+              "relativeDeparture": 2041
+            },
+            {
+              "bearing": 137,
+              "code": "62924789",
+              "dropOffOnly": false,
+              "lat": 55.74253,
+              "lng": -4.68111,
+              "name": "Garnock View",
+              "pickUpOnly": false,
+              "relativeArrival": 2100,
+              "relativeDeparture": 2100
+            },
+            {
+              "bearing": 103,
+              "code": "62925262",
+              "dropOffOnly": false,
+              "lat": 55.74033,
+              "lng": -4.67911,
+              "name": "Garnockside",
+              "pickUpOnly": false,
+              "relativeArrival": 2101,
+              "relativeDeparture": 2101
+            },
+            {
+              "bearing": 92,
+              "code": "62923859",
+              "dropOffOnly": false,
+              "lat": 55.73849,
+              "lng": -4.67135,
+              "name": "Garnock Campus",
+              "pickUpOnly": false,
+              "relativeArrival": 2160,
+              "relativeDeparture": 2160
+            },
+            {
+              "bearing": 74,
+              "code": "62925275",
+              "dropOffOnly": false,
+              "lat": 55.73826,
+              "lng": -4.66554,
+              "name": "Longbar Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 2220,
+              "relativeDeparture": 2220
+            },
+            {
+              "bearing": 88,
+              "code": "62925392",
+              "dropOffOnly": false,
+              "lat": 55.74311,
+              "lng": -4.64933,
+              "name": "Willowburn Road",
+              "pickUpOnly": false,
+              "relativeArrival": 2340,
+              "relativeDeparture": 2340
+            },
+            {
+              "bearing": 80,
+              "code": "62923954",
+              "dropOffOnly": false,
+              "lat": 55.74337,
+              "lng": -4.64396,
+              "name": "Spiers Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 2400,
+              "relativeDeparture": 2400
+            },
+            {
+              "bearing": 9,
+              "code": "62923437",
+              "dropOffOnly": false,
+              "lat": 55.74403,
+              "lng": -4.64056,
+              "name": "Manuel Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 2460,
+              "relativeDeparture": 2460
+            },
+            {
+              "bearing": 48,
+              "code": "62923986",
+              "dropOffOnly": false,
+              "lat": 55.74627,
+              "lng": -4.64021,
+              "name": "Grahamfield Place",
+              "pickUpOnly": false,
+              "relativeArrival": 2461,
+              "relativeDeparture": 2461
+            },
+            {
+              "bearing": 69,
+              "code": "62924925",
+              "dropOffOnly": false,
+              "lat": 55.74887,
+              "lng": -4.63738,
+              "name": "Glebe Road",
+              "pickUpOnly": false,
+              "relativeArrival": 2520,
+              "relativeDeparture": 2520
+            },
+            {
+              "bearing": 46,
+              "code": "62923723",
+              "dropOffOnly": false,
+              "lat": 55.75017,
+              "lng": -4.63409,
+              "name": "Strand",
+              "pickUpOnly": false,
+              "relativeArrival": 2580,
+              "relativeDeparture": 2580
+            },
+            {
+              "bearing": 58,
+              "code": "62924735",
+              "dropOffOnly": false,
+              "lat": 55.75132,
+              "lng": -4.63294,
+              "name": "Bellmans Close",
+              "pickUpOnly": false,
+              "relativeArrival": 2581,
+              "relativeDeparture": 2581
+            },
+            {
+              "bearing": 47,
+              "code": "62924272",
+              "dropOffOnly": false,
+              "lat": 55.75264,
+              "lng": -4.63088,
+              "name": "Wilson Street",
+              "pickUpOnly": false,
+              "relativeArrival": 2582,
+              "relativeDeparture": 2582
+            },
+            {
+              "bearing": 31,
+              "code": "62925327",
+              "dropOffOnly": false,
+              "lat": 55.75421,
+              "lng": -4.6292,
+              "name": "Bigholm Road",
+              "pickUpOnly": false,
+              "relativeArrival": 2583,
+              "relativeDeparture": 2583
+            },
+            {
+              "bearing": 37,
+              "code": "62923652",
+              "dropOffOnly": false,
+              "lat": 55.75648,
+              "lng": -4.62786,
+              "name": "Beech Avenue",
+              "pickUpOnly": false,
+              "relativeArrival": 2640,
+              "relativeDeparture": 2640
+            },
+            {
+              "bearing": 35,
+              "code": "73923435",
+              "dropOffOnly": false,
+              "lat": 55.76884,
+              "lng": -4.61855,
+              "name": "Clarksbridge Roundabout",
+              "pickUpOnly": false,
+              "relativeArrival": 2700,
+              "relativeDeparture": 2700
+            },
+            {
+              "bearing": 52,
+              "code": "73923492",
+              "dropOffOnly": false,
+              "lat": 55.78617,
+              "lng": -4.60661,
+              "name": "A737 Roundabout",
+              "pickUpOnly": false,
+              "relativeArrival": 2880,
+              "relativeDeparture": 2880
+            },
+            {
+              "bearing": 80,
+              "code": "73926786",
+              "dropOffOnly": false,
+              "lat": 55.8026,
+              "lng": -4.58569,
+              "name": "Risk Cottages",
+              "pickUpOnly": false,
+              "relativeArrival": 3060,
+              "relativeDeparture": 3060
+            },
+            {
+              "code": "45235639",
+              "dropOffOnly": false,
+              "lat": 55.86154,
+              "lng": -4.26339,
+              "name": "Blythswood Street",
+              "pickUpOnly": false,
+              "relativeArrival": 4260,
+              "relativeDeparture": 4260
+            }
+          ],
+          "travelled": true
+        },
+        {
+          "encodedWaypoints": "qm}sIdu_YpAoX??mOcI??{Iik@",
+          "stops": [
+            {
+              "bearing": 32,
+              "code": "45234765",
+              "dropOffOnly": false,
+              "lat": 55.86113,
+              "lng": -4.2593,
+              "name": "Waterloo Lane",
+              "pickUpOnly": false,
+              "relativeDeparture": 4261
+            },
+            {
+              "bearing": 77,
+              "code": "45236758",
+              "dropOffOnly": false,
+              "lat": 55.86375,
+              "lng": -4.25768,
+              "name": "Bath Street",
+              "pickUpOnly": false,
+              "relativeArrival": 4380,
+              "relativeDeparture": 4380
+            },
+            {
+              "code": "45242868",
+              "dropOffOnly": false,
+              "lat": 55.86549,
+              "lng": -4.25059,
+              "name": "Buchanan Bus Station",
+              "pickUpOnly": false,
+              "relativeArrival": 4620
+            }
+          ],
+          "travelled": false
+        }
+      ],
+      "sources": [{ "provider": "Stagecoach West Scotland" }],
+      "stopCode": "62923452",
+      "to": {
+        "address": "Blythswood Street",
+        "class": "StopLocation",
+        "code": "45235639",
+        "id": "pt_pub|UK_SouthScotland|45235639",
+        "lat": 55.86154,
+        "lng": -4.26339,
+        "modeInfo": {
+          "alt": "bus",
+          "identifier": "pt_pub_bus",
+          "localIcon": "bus"
+        },
+        "name": "Blythswood Street",
+        "popularity": 757,
+        "publicTransportMode": "pt_pub_bus",
+        "region": "UK_SouthScotland",
+        "services": "500, XP23, X8, X7, X36,...",
+        "stopCode": "45235639",
+        "stopType": "bus",
+        "timezone": "Europe/London"
+      },
+      "travelDirection": 69,
+      "type": "scheduled",
+      "visibility": "in summary"
+    }
+  ]
+}
