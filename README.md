@@ -62,4 +62,5 @@ The memories with pictures should be shown
 ## Tech Stack
 This project used ReactJs, TypeScript, JavaScript and CSS. 
 
-useState, useEffect, useRef, useContext, useHistory, useParams hooks were used.
+useState, useEffect, useRef, useContext, useHistory, useCallback hooks were used.
+Ionic Storage, Filesystem were used. 
