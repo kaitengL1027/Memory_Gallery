@@ -1,5 +1,5 @@
 # Memory Gallery - Read Me
-A cross-platform Ionic app which allows the user to upload pictures of memories with their phone's camera, and then update / delete them
+A cross-platform Ionic app which allows the user to upload pictures of memories with their phone's camera, and then update / delete them.  
 (Work in progress)
 
 ## Installation
@@ -63,4 +63,5 @@ The memories with pictures should be shown
 This project used ReactJs, TypeScript, JavaScript and CSS. 
 
 useState, useEffect, useRef, useContext, useHistory, useCallback hooks were used.
+
 Ionic Storage, Filesystem were used. 
