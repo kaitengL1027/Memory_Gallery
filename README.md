@@ -60,7 +60,7 @@ Add a memory (Doesn't matter it's good or bad :D), choose its category, then tak
 The memories with pictures should be shown
 
 ## Tech Stack
-This project used ReactJs, TypeScript, JavaScript and CSS. 
+This project used ReactJs, TypeScript, JavaScript and CSS built on Ionic Framework. 
 
 useState, useEffect, useRef, useContext, useHistory, useCallback hooks were used.
 
